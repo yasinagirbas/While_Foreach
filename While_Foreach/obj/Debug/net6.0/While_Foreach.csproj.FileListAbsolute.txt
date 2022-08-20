@@ -1,0 +1,15 @@
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.AssemblyReference.cache
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfoInputs.cache
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfo.cs
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.CoreCompileInputs.cache
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\bin\Debug\net6.0\While_Foreach.exe
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\bin\Debug\net6.0\While_Foreach.deps.json
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\bin\Debug\net6.0\While_Foreach.runtimeconfig.json
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\bin\Debug\net6.0\While_Foreach.dll
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\bin\Debug\net6.0\While_Foreach.pdb
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.dll
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\refint\While_Foreach.dll
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.pdb
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\While_Foreach.genruntimeconfig.cache
+C:\Pratikler\While_foreach\While_Foreach\While_Foreach\obj\Debug\net6.0\ref\While_Foreach.dll
